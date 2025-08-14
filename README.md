@@ -66,4 +66,29 @@ Este proyecto es una pequeña parte de lo que me gusta hacer: código útil, bie
 ---
 
 ## 📁 Estructura del Proyecto (simplificada)
+/app
+/layout.tsx
+/page.tsx
+/components
+/Header.tsx
+/Sidebar.tsx
+/SummaryCard.tsx
+/TransactionForm.tsx
+/TransactionTable.tsx
+/FinanceChart.tsx
+/store
+/useFinanceStore.ts
+/styles
+/globals.css
+
+
+---
+
+## 📄 Licencia
+
+MIT — Puedes usar este código como base para tus propios dashboards personales o educativos. Si te inspiras en él, ¡me encantaría saberlo!
+
+---
+
+> "No hace falta salvar el mundo. A veces, solo hace falta hacer algo bonito que te haga bien."
 
