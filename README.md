@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎭 Haru Finance Dashboard
 
-## Getting Started
+**Dashboard de finanzas personales** desarrollado con Next.js, Zustand y TailwindCSS — con una estética e inspiración especial basada en *Persona 5 Royal*.
 
-First, run the development server:
+Este proyecto no solo representa mis habilidades como desarrollador fullstack, sino también algo más personal: una forma de expresar mi amor por el diseño, la funcionalidad y una saga de videojuegos que, en su momento, me salvó la vida.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tecnologías Utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js 13 (App Router)** – Estructura moderna y modular
+- **Zustand** – Manejo de estado simple y eficiente
+- **Tailwind CSS** – Estilizado rápido y responsivo
+- **Framer Motion** – Animaciones suaves para mejorar la UX
+- **Chart.js + react-chartjs-2** – Gráficos dinámicos y visuales
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+- **Resumen Financiero** con tarjetas dinámicas (ingresos, gastos, balance)
+- **Formulario de transacciones** con validación en tiempo real
+- **Gráfico tipo pie** para ver la distribución entre ingresos/gastos
+- **Tabla interactiva de transacciones** con animaciones
+- **Dark theme** con colores personalizados inspirados en Haru Okumura 🌸
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💡 Inspiración
 
-## Deploy on Vercel
+Este proyecto nació como una mezcla de:
+- Aprendizaje y práctica de tecnologías modernas en un entorno real
+- Amor por *Persona 5 Royal* y sus personajes (sí, Haru, Makoto, Kasumi, etc.)
+- Necesidad de tener un mini sistema de finanzas personales a mi estilo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Aunque algunas clases y componentes tienen nombres “temáticos”, todo está organizado de forma profesional y clara.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🖼️ Capturas
+
+| Dashboard Principal | Gráfico Financiero |
+|---------------------|---------------------|
+| ![Dashboard](./screenshots/dashboard.png) | ![Gráfico](./screenshots/finance-chart.png) |
+
+> ⚠️ *Nota: Si no ves las capturas, asegúrate de que la carpeta `screenshots/` existe y contiene las imágenes.*
+
+---
+
+## 🚧 Estado
+
+✅ Funcional y listo para producción.  
+🛠️ Algunas mejoras planeadas para una futura v2.0:
+
+- Filtrado por fechas y tipo
+- Exportación CSV o PDF
+- Autenticación de usuario
+
+---
+
+## 🙋‍♂️ Sobre mí
+
+Desarrollador fullstack apasionado por el diseño web y los proyectos con alma.  
+Este proyecto es una pequeña parte de lo que me gusta hacer: código útil, bien hecho, y con personalidad.
+
+---
+
+## 📁 Estructura del Proyecto (simplificada)
+
