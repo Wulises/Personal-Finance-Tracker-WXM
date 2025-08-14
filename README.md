@@ -38,12 +38,10 @@ Aunque algunas clases y componentes tienen nombres “temáticos”, todo está 
 ---
 
 ## 🖼️ Capturas
+<img width="1347" height="627" alt="image" src="https://github.com/user-attachments/assets/541b7570-44c5-4554-8524-af5f46e3f6e9" />
 
-| Dashboard Principal | Gráfico Financiero |
-|---------------------|---------------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Gráfico](./screenshots/finance-chart.png) |
+<img width="1346" height="626" alt="image" src="https://github.com/user-attachments/assets/cd4804fe-dd1a-4e7f-a44a-64076df8d24a" />
 
-> ⚠️ *Nota: Si no ves las capturas, asegúrate de que la carpeta `screenshots/` existe y contiene las imágenes.*
 
 ---
 
@@ -58,7 +56,7 @@ Aunque algunas clases y componentes tienen nombres “temáticos”, todo está 
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## Sobre mí
 
 Desarrollador fullstack apasionado por el diseño web y los proyectos con alma.  
 Este proyecto es una pequeña parte de lo que me gusta hacer: código útil, bien hecho, y con personalidad.
